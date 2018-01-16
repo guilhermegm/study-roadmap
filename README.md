@@ -1,5 +1,15 @@
 # study-roadmap
 
+### Map
+
+* Software Architecture
+* S.O.L.I.D
+* Go Lang
+* Hacker Rank
+* Pagar.me Talk
+* Machine Learning
+* English
+
 #### 01/16/18
 
 * [CQRS.nu - Domain-Driven Design](http://cqrs.nu/Faq)
