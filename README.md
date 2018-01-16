@@ -15,3 +15,4 @@
 * [CQRS.nu - Domain-Driven Design](http://cqrs.nu/Faq)
 * [S.O.L.I.D - Interface segregation principle](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 * [Fun Fun Function - Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+* [Import declarations in Go](https://medium.com/golangspec/import-declarations-in-go-8de0fd3ae8ff)
