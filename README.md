@@ -23,6 +23,7 @@
   * [GeeksForGeeks](https://www.geeksforgeeks.org/merge-sort/)
   * [Aula 51 - Ordenação - MergeSort](https://www.youtube.com/watch?v=RZbg5oT5Fgw)
   * [PythonBrasil](https://wiki.python.org.br/MergeSort)
+* Book: A Arte da Negociação
 
 #### 01/16/18
 
