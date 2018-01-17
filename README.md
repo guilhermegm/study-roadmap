@@ -10,6 +10,12 @@
 * Machine Learning
 * English
 
+#### 01/17/18
+
+* [HackerRank](https://www.hackerrank.com)
+  * Day 8: Dictionaries and Maps
+  * Day 9: Recursion
+
 #### 01/16/18
 
 * [CQRS.nu - Domain-Driven Design](http://cqrs.nu/Faq)
