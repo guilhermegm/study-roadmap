@@ -15,6 +15,7 @@
 * [HackerRank](https://www.hackerrank.com)
   * Day 8: Dictionaries and Maps
   * Day 9: Recursion
+  * Day 4: Class vs. Instance
 
 #### 01/16/18
 
