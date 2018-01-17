@@ -18,3 +18,4 @@
 * [Import declarations in Go](https://medium.com/golangspec/import-declarations-in-go-8de0fd3ae8ff)
 * [Talk #18 - 3D no browser com three.js](https://www.youtube.com/watch?v=v6TIovho9ho)
 * [Artificial Intelligence - 1. Welcome to IA - part 1, 2, 3, 4](https://br.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* Book: English Grammar in Use (page 4, 5)
