@@ -35,7 +35,8 @@
 * Book: English Grammar in Use (page 4, 5)
 
 ### Backlog
-https://hackernoon.com/agile-done-right-is-continuous-design-f85e24733654
-https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
-https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
-https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
+* https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48
+* https://hackernoon.com/agile-done-right-is-continuous-design-f85e24733654
+* https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
+* https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
+* https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
