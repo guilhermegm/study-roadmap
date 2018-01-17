@@ -10,6 +10,8 @@
 * Machine Learning
 * English
 
+### Road
+
 #### 01/17/18
 
 * [HackerRank](https://www.hackerrank.com)
@@ -31,3 +33,9 @@
 * [Talk #18 - 3D no browser com three.js](https://www.youtube.com/watch?v=v6TIovho9ho)
 * [Artificial Intelligence - 1. Welcome to IA - part 1, 2, 3, 4](https://br.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * Book: English Grammar in Use (page 4, 5)
+
+### Backlog
+https://hackernoon.com/agile-done-right-is-continuous-design-f85e24733654
+https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
+https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
+https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
