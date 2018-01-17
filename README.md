@@ -16,6 +16,11 @@
   * Day 8: Dictionaries and Maps
   * Day 9: Recursion
   * Day 4: Class vs. Instance
+  * Big Sorting
+* Merge Sort
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/merge-sort/)
+  * [Aula 51 - Ordenação - MergeSort](https://www.youtube.com/watch?v=RZbg5oT5Fgw)
+  * [PythonBrasil](https://wiki.python.org.br/MergeSort)
 
 #### 01/16/18
 
