@@ -24,6 +24,7 @@
   * [Aula 51 - Ordenação - MergeSort](https://www.youtube.com/watch?v=RZbg5oT5Fgw)
   * [PythonBrasil](https://wiki.python.org.br/MergeSort)
 * Book: A Arte da Negociação
+* [Agile (Done Right) Is Continuous Design](https://hackernoon.com/agile-done-right-is-continuous-design-f85e24733654)
 
 #### 01/16/18
 
