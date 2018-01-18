@@ -45,3 +45,5 @@
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
 * https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
 * https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+* https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/
+
