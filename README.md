@@ -16,6 +16,7 @@
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * Book: English Grammar in Use (page 4, 5)
 * Book: De Onde Vêm as Boa Ideias
+* [Golang - Part 31: Custom Errors](https://golangbot.com/custom-errors/)
 
 #### 01/17/18
 
