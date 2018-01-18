@@ -14,6 +14,7 @@
 
 #### 01/18/18
 
+* [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * Book: English Grammar in Use (page 4, 5)
 
 #### 01/17/18
