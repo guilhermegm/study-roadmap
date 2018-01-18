@@ -27,7 +27,7 @@
 * [Agile (Done Right) Is Continuous Design](https://hackernoon.com/agile-done-right-is-continuous-design-f85e24733654)
 * [S.O.L.I.D - Dependency inversion principle](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 * [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
-
+* [Go Best Practices - Error handling](https://medium.com/@sebdah/go-best-practices-error-handling-2d15e1f0c5ee)
 
 #### 01/16/18
 
