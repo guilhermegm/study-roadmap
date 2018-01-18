@@ -3,7 +3,6 @@
 ### Map
 
 * Software Architecture
-* S.O.L.I.D
 * Go Lang
 * Hacker Rank
 * Pagar.me Talk
@@ -67,7 +66,6 @@
 * https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
 * https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
-* https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 * https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/
 * https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * http://latentflip.com/loupe/?code=ZnVuY3Rpb24gbXVsdGlwbHkgKGEsIGIpIHsKICAgIHJldHVybiBhICogYjsKfQoKZnVuY3Rpb24gc3F1YXJlIChudW1iZXIpIHsKICAgIHJldHVybiBtdWx0aXBseShudW1iZXIsIG51bWJlcik7Cn0KICAgIApmdW5jdGlvbiBwcmludHMgKG51bWJlcikgewogICAgY29uc29sZS5sb2coc3F1YXJlKG51bWJlcikpOwp9CgpwcmludHMoMik7!!!
