@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 01/18/18
+
+* Book: English Grammar in Use (page 4, 5)
+
 #### 01/17/18
 
 * [HackerRank](https://www.hackerrank.com)
