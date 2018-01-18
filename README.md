@@ -17,6 +17,10 @@
 * Book: English Grammar in Use (page 4, 5)
 * Book: De Onde Vêm as Boa Ideias
 * [Golang - Part 31: Custom Errors](https://golangbot.com/custom-errors/)
+* HackerRank
+  * [Day 10: Binary Numbers](https://www.hackerrank.com/rest/contests/master/challenges/30-binary-numbers/hackers/guilhermegm/download_solution)
+  * [Cpp-Tutorial-Samples](https://github.com/sinairv/Cpp-Tutorial-Samples)
+  * [YouTube - Base 10 to Base 2 (Decimal to Binary) Conversion](https://www.youtube.com/watch?v=Q2UgMYwWiO4)
 
 #### 01/17/18
 
