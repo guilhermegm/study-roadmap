@@ -39,6 +39,21 @@
 * [Artificial Intelligence - 1. Welcome to IA - part 1, 2, 3, 4](https://br.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * Book: English Grammar in Use (page 4, 5)
 
+#### 01/14/18
+
+* [Talk #1 - To go fast, go alone. To go far, go together.](https://www.youtube.com/watch?v=IHc3Xu_wxsM)
+* [Talk #2 - Digging deep into Git](https://www.youtube.com/watch?v=H2j7e81J798)
+* [Talk #3.1 - Docker: nivelando conhecimento](https://www.youtube.com/watch?v=hCMcQfGb4cA)
+* [Talk #3.2 - Docker Compose](https://www.youtube.com/watch?v=kHqxQaxitZk)
+* [Talk #4 - Quality assurance mindset](https://www.youtube.com/watch?v=BFTAryFSNr0)
+* [Talk #5 - Por que procrastinadores procrastinam](https://www.youtube.com/watch?v=tMuU6fViaS8)
+* [Talk #6 - A ENORME diferença entre Empresa, Cultura e Escritório](https://www.youtube.com/watch?v=YK6Dhyk3rik)
+* [Talk #7 - Types ❤️ JavaScript](https://www.youtube.com/watch?v=U-TG7iEZzVI)
+* [Talk #8 - A Era dos Progressive Web Apps](https://www.youtube.com/watch?v=AOWtO51pmHo)
+* [Talk #10 - Serverless Framework 1.0](https://www.youtube.com/watch?v=2oNovfw3V08)
+* [Talk #13 - Payment Request API](https://www.youtube.com/watch?v=kD0j2BwgF7c)
+* [Talk #16 - A ideia do ELM para o front-end](https://www.youtube.com/watch?v=obdgL5zOjxg)
+
 ### Backlog
 * https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48
 * https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
