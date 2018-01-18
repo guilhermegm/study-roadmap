@@ -28,6 +28,7 @@
 * [S.O.L.I.D - Dependency inversion principle](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 * [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 * [Go Best Practices - Error handling](https://medium.com/@sebdah/go-best-practices-error-handling-2d15e1f0c5ee)
+* [Talk #27 - JavaScript Event Loop (Parte 1)](https://www.youtube.com/watch?v=va8-xdxTywU)
 
 #### 01/16/18
 
@@ -53,6 +54,7 @@
 * [Talk #10 - Serverless Framework 1.0](https://www.youtube.com/watch?v=2oNovfw3V08)
 * [Talk #13 - Payment Request API](https://www.youtube.com/watch?v=kD0j2BwgF7c)
 * [Talk #16 - A ideia do ELM para o front-end](https://www.youtube.com/watch?v=obdgL5zOjxg)
+* [Talk #32 - Vítima, figurante e protagonista](https://www.youtube.com/watch?v=va8-xdxTywU)
 
 ### Backlog
 * https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48
