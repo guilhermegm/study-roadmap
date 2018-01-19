@@ -11,6 +11,11 @@
 
 ### Road
 
+#### 01/19/18
+
+* [Algorithms and Data Structures - 1. Quicksort](https://www.youtube.com/watch?v=5M5A7qPWk84)
+* [An Introduction to OAuth 2.0](https://medium.com/@technospace/an-introduction-to-oauth-2-0-4c71b5fb19ff)
+
 #### 01/18/18
 
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
