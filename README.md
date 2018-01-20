@@ -14,6 +14,7 @@
 #### 01/20/18
 
 * [Talk #17 - Ramda](https://www.youtube.com/watch?v=gHm12Ov1k0Q)
+* [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/)
 
 #### 01/19/18
 
@@ -77,6 +78,8 @@
 * [Talk #32 - Vítima, figurante e protagonista](https://www.youtube.com/watch?v=va8-xdxTywU)
 
 ### Backlog
+* Spotify Engineering Culture 1 - https://www.youtube.com/watch?v=4GK1NDTWbkY
+* Spotify Engineering Culture 2 - https://www.youtube.com/watch?v=X3rGdmoTjDc
 * https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48
 * https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
