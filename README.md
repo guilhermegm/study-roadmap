@@ -11,6 +11,10 @@
 
 ### Road
 
+#### 01/20/18
+
+* [Talk #17 - Ramda](https://www.youtube.com/watch?v=gHm12Ov1k0Q)
+
 #### 01/19/18
 
 * [Algorithms and Data Structures - 1. Quicksort](https://www.youtube.com/watch?v=5M5A7qPWk84)
