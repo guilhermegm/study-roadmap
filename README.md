@@ -15,6 +15,7 @@
 
 * [Talk #17 - Ramda](https://www.youtube.com/watch?v=gHm12Ov1k0Q)
 * [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/)
+* Book: English Grammar in Use (unit 1)
 
 #### 01/19/18
 
@@ -24,7 +25,7 @@
 #### 01/18/18
 
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
-* Book: English Grammar in Use (page 4, 5)
+* Book: English Grammar in Use (unit 2)
 * Book: De Onde Vêm as Boa Ideias
 * [Golang - Part 31: Custom Errors](https://golangbot.com/custom-errors/)
 * HackerRank
