@@ -15,6 +15,7 @@
 #### 01/22/18
 
 * [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
+* [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 
 #### 01/21/18
 
