@@ -8,6 +8,7 @@
 * Pagar.me Talk
 * Machine Learning
 * English
+* ~~S.O.L.I.D~~
 
 ### Road
 
