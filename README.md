@@ -17,7 +17,8 @@
 * [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * HackerRank
-  * [Day 11: 2D Arrays](https://www.hackerrank.com/rest/contests/master/challenges/30-2d-arrays/hackers/guilhermegm/download_solution) - [C - repl.it](https://repl.it/@GuilhermeGM/DeliciousVirtuousLonghorn)
+  * [Day 11: 2D Arrays](https://www.hackerrank.com/rest/contests/master/challenges/30-2d-arrays/hackers/guilhermegm/download_solution)
+    * [C - repl.it](https://repl.it/@GuilhermeGM/DeliciousVirtuousLonghorn)
 
 #### 01/21/18
 
