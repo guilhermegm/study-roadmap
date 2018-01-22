@@ -11,6 +11,10 @@
 
 ### Road
 
+#### 01/21/18
+
+* Book: English Grammar in Use (unit 3, 4, 5)
+
 #### 01/20/18
 
 * [Talk #17 - Ramda](https://www.youtube.com/watch?v=gHm12Ov1k0Q)
