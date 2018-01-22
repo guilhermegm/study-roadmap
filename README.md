@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 01/22/18
+
+* [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
+
 #### 01/21/18
 
 * Book: English Grammar in Use (unit 3, 4, 5)
