@@ -19,6 +19,7 @@
 * HackerRank
   * [Day 11: 2D Arrays](https://www.hackerrank.com/rest/contests/master/challenges/30-2d-arrays/hackers/guilhermegm/download_solution)
     * [C - repl.it](https://repl.it/@GuilhermeGM/DeliciousVirtuousLonghorn)
+* [Talk #31 - Desmistificando pointers em C (ponteiros)](https://www.youtube.com/watch?v=Agm01m4s3wo)
 
 #### 01/21/18
 
