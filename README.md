@@ -16,6 +16,7 @@
 
 * [Clean Architecture design in NodeJS](https://solidgeargroup.com/clean-architecture-in-nodejs)
 * [Analysis of Algorithms — A Brief Introduction with Insertion Sort](https://markim.io/analysis-of-algorithms-a-brief-introduction-with-insertion-sort-31465a3dbd55)
+* [Talk #55 - Binários: por que nem é tão difícil assim](https://www.youtube.com/watch?v=SNnO1ki2t78)
 
 #### 01/22/18
 
