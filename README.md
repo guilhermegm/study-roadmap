@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 01/23/18
+
+* [Clean Architecture design in NodeJS](https://solidgeargroup.com/clean-architecture-in-nodejs)
+
 #### 01/22/18
 
 * [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
@@ -95,7 +99,6 @@
 ### Backlog
 * Spotify Engineering Culture 1 - https://www.youtube.com/watch?v=4GK1NDTWbkY
 * Spotify Engineering Culture 2 - https://www.youtube.com/watch?v=X3rGdmoTjDc
-* https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48
 * https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
 * https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
