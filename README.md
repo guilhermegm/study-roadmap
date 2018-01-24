@@ -15,6 +15,7 @@
 #### 01/23/18
 
 * [Clean Architecture design in NodeJS](https://solidgeargroup.com/clean-architecture-in-nodejs)
+* [Analysis of Algorithms — A Brief Introduction with Insertion Sort](https://markim.io/analysis-of-algorithms-a-brief-introduction-with-insertion-sort-31465a3dbd55)
 
 #### 01/22/18
 
@@ -105,4 +106,6 @@
 * https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/
 * https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * http://latentflip.com/loupe/?code=ZnVuY3Rpb24gbXVsdGlwbHkgKGEsIGIpIHsKICAgIHJldHVybiBhICogYjsKfQoKZnVuY3Rpb24gc3F1YXJlIChudW1iZXIpIHsKICAgIHJldHVybiBtdWx0aXBseShudW1iZXIsIG51bWJlcik7Cn0KICAgIApmdW5jdGlvbiBwcmludHMgKG51bWJlcikgewogICAgY29uc29sZS5sb2coc3F1YXJlKG51bWJlcikpOwp9CgpwcmludHMoMik7!!!
+* https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0
+* https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
 
