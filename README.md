@@ -16,12 +16,13 @@
 
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
 * [How JavaScript works: Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
-* [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
-  * [C++](https://www.hackerrank.com/challenges/30-inheritance/submissions/code/64161843)
-* [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
-  * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-abstract-classes/hackers/guilhermegm/download_solution)
-* [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)
-  * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-scope/hackers/guilhermegm/download_solution)
+* HackerRank
+  * [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
+    * [C++](https://www.hackerrank.com/challenges/30-inheritance/submissions/code/64161843)
+  * [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+    * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-abstract-classes/hackers/guilhermegm/download_solution)
+  * [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)
+    * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-scope/hackers/guilhermegm/download_solution)
 * [Talk #53 - Workers com RabbitMQ](https://www.youtube.com/watch?v=p4cevymrEq0)
 
 #### 01/23/18
