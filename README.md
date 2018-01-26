@@ -20,6 +20,8 @@
   * [C++](https://www.hackerrank.com/challenges/30-inheritance/submissions/code/64161843)
 * [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
   * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-abstract-classes/hackers/guilhermegm/download_solution)
+* [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)
+  * [C++](https://www.hackerrank.com/rest/contests/master/challenges/30-scope/hackers/guilhermegm/download_solution)
 * [Talk #53 - Workers com RabbitMQ](https://www.youtube.com/watch?v=p4cevymrEq0)
 
 #### 01/23/18
