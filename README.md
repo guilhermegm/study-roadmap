@@ -15,6 +15,7 @@
 #### 01/27/18
 
 * [Domain-Driven Design](https://herbertograca.com/2017/09/07/domain-driven-design/)
+* [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/ )
 * [Quick Sort - C](https://repl.it/@GuilhermeGM/Quick-Sort)
 
 #### 01/25/18
