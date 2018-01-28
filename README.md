@@ -16,6 +16,7 @@
 
 * [Talk #56 - Soft skills para devs](https://www.youtube.com/watch?v=wFIvj8YI_Hg)
 * [Talk #52 - Feedback - E porque você precisa saber mais sobre isso](https://www.youtube.com/watch?v=AnpZn-HVFRE)
+* Book: C Programming Language - Vol 2 (chapter 1)
 
 #### 01/27/18
 
