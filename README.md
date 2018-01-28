@@ -12,6 +12,11 @@
 
 ### Road
 
+#### 01/28/18
+
+* [Talk #56 - Soft skills para devs](https://www.youtube.com/watch?v=wFIvj8YI_Hg)
+* [Talk #52 - Feedback - E porque você precisa saber mais sobre isso](https://www.youtube.com/watch?v=AnpZn-HVFRE)
+
 #### 01/27/18
 
 * [Domain-Driven Design](https://herbertograca.com/2017/09/07/domain-driven-design/)
