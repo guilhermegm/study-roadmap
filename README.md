@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 01/29/18
+
+* [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/)
+
 #### 01/28/18
 
 * [Talk #56 - Soft skills para devs](https://www.youtube.com/watch?v=wFIvj8YI_Hg)
