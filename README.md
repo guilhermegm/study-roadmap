@@ -15,7 +15,7 @@
 #### 01/29/18
 
 * [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/)
-* * Book: English Grammar in Use (unit 23, 36)
+* Book: English Grammar in Use (unit 23, 36)
 
 #### 01/28/18
 
