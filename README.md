@@ -143,4 +143,5 @@
 * http://latentflip.com/loupe/?code=ZnVuY3Rpb24gbXVsdGlwbHkgKGEsIGIpIHsKICAgIHJldHVybiBhICogYjsKfQoKZnVuY3Rpb24gc3F1YXJlIChudW1iZXIpIHsKICAgIHJldHVybiBtdWx0aXBseShudW1iZXIsIG51bWJlcik7Cn0KICAgIApmdW5jdGlvbiBwcmludHMgKG51bWJlcikgewogICAgY29uc29sZS5sb2coc3F1YXJlKG51bWJlcikpOwp9CgpwcmludHMoMik7!!!
 * https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0
 * https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+* https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/
 
