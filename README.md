@@ -18,6 +18,7 @@
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 * [5 Technology Trends to Learn in 2018 If You Want a Great Career](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb)
 * [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
+* [Types of Software Architects](https://medium.com/@nvashanin/types-of-software-architects-aa03e359d192)
 
 #### 01/29/18
 
