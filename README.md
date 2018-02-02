@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 02/02/18
+
+* [Fixed Length Iterations vs. Continuous Flow](https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50)
+
 #### 01/29/18
 
 * [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/)
@@ -131,7 +135,6 @@
 ### Backlog
 * Spotify Engineering Culture 1 - https://www.youtube.com/watch?v=4GK1NDTWbkY
 * Spotify Engineering Culture 2 - https://www.youtube.com/watch?v=X3rGdmoTjDc
-* https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
 * https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0
 * https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/
