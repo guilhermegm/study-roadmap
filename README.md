@@ -15,6 +15,7 @@
 #### 02/02/18
 
 * [Fixed Length Iterations vs. Continuous Flow](https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50)
+* [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 
 #### 01/29/18
 
