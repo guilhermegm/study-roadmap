@@ -16,6 +16,7 @@
 
 * [Fixed Length Iterations vs. Continuous Flow](https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50)
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* [5 Technology Trends to Learn in 2018 If You Want a Great Career](https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb)
 
 #### 01/29/18
 
