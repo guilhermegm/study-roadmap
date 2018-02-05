@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 05/02/18
+
+* Book: C Programming Language - Vol 2 (chapter 2, 3)
+
 #### 02/02/18
 
 * [Fixed Length Iterations vs. Continuous Flow](https://hackernoon.com/fixed-length-iterations-vs-continuous-flow-afd0d32ab50)
