@@ -15,6 +15,7 @@
 #### 06/02/18
 
 * [Talk #45 - Nas entranhas do JavaScript: meta programação (convidado)](https://www.youtube.com/watch?v=xrAJCFt2N5Q)
+* [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 
 #### 05/02/18
 
