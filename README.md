@@ -12,6 +12,10 @@
 
 ### Road
 
+#### 06/02/18
+
+* [Talk #45 - Nas entranhas do JavaScript: meta programação (convidado)](https://www.youtube.com/watch?v=xrAJCFt2N5Q)
+
 #### 05/02/18
 
 * Book: C Programming Language - Vol 2 (chapter 2, 3)
