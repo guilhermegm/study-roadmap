@@ -12,6 +12,11 @@
 
 ### Road
 
+#### 07/02/18
+
+* [Tic-tac-toe game in React and Redux](https://medium.com/@marcinbaraniecki/tic-tac-toe-game-in-react-and-redux-155beefa09b0)
+* [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+
 #### 06/02/18
 
 * [Talk #45 - Nas entranhas do JavaScript: meta programação (convidado)](https://www.youtube.com/watch?v=xrAJCFt2N5Q)
@@ -146,6 +151,8 @@
 * [Talk #32 - Vítima, figurante e protagonista](https://www.youtube.com/watch?v=va8-xdxTywU)
 
 ### Backlog
+* https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde
+* https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/
 * Spotify Engineering Culture 1 - https://www.youtube.com/watch?v=4GK1NDTWbkY
 * Spotify Engineering Culture 2 - https://www.youtube.com/watch?v=X3rGdmoTjDc
 * https://hackernoon.com/5-technology-trends-to-learn-in-2018-if-you-want-a-great-career-caf2e2318abb
