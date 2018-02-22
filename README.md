@@ -12,17 +12,25 @@
 
 ### Road
 
-#### 07/02/18
+#### 02/22/18
+
+* [Next.js + Redux in an easy way](https://medium.com/disdj/next-js-redux-in-an-easy-way-fae083aa037c)
+* [Next.js + Redux Integration](https://medium.com/front-end-hacking/next-js-redux-integration-3ab1a9ca5e1d)
+* [Next.js](https://github.com/zeit/next.js)
+* [ws: a Node.js WebSocket library](https://github.com/websockets/ws)
+* [Bad jobs, Family and Depression](https://www.youtube.com/watch?v=BZAVtDR-SQs)
+
+#### 02/07/18
 
 * [Tic-tac-toe game in React and Redux](https://medium.com/@marcinbaraniecki/tic-tac-toe-game-in-react-and-redux-155beefa09b0)
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 
-#### 06/02/18
+#### 02/06/18
 
 * [Talk #45 - Nas entranhas do JavaScript: meta programação (convidado)](https://www.youtube.com/watch?v=xrAJCFt2N5Q)
 * [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 
-#### 05/02/18
+#### 02/05/18
 
 * Book: C Programming Language - Vol 2 (chapter 2, 3)
 
