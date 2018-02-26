@@ -12,6 +12,13 @@
 
 ### Road
 
+#### 02/24/18
+
+* [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
+* [Redux - Reducers](https://redux.js.org/basics/reducers)
+* [React Redux Tutorial for Beginners: learning Redux in 2018](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
+* [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+
 #### 02/22/18
 
 * [Next.js + Redux in an easy way](https://medium.com/disdj/next-js-redux-in-an-easy-way-fae083aa037c)
